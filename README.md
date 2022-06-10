@@ -7,5 +7,8 @@
   - production company
 - there are few material that describes credits of each cahpter
 - this database can use for identify chapters which certain charactor appears and utilize to label for CV charactor recognition task
+# difficulties
+- 白抜き文字
+- need big data to trrain
 # reference
 - https://mediag.bunka.go.jp/mediag_wp/wp-content/uploads/2022/04/FUKU95-03_JAniCA.pdf
